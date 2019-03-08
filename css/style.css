@@ -1,0 +1,211 @@
+
+*{margin:0px;
+padding:0px;}
+.body{
+	width:100%;
+overflow:hidden;}
+
+.HEADER{
+	background:skyblue;
+	list-style-type:none;
+	padding-left:70px;
+	text-align:left;
+	overflow:hidden;
+		}
+.header li{
+	font-family: 'Open Sans', sans-serif;
+	display:inline-block;
+	float:left;
+	padding:7px;
+	position:relative;
+	font-size:16px;
+}
+
+.header li a{
+	font-family: 'Open Sans', sans-serif;
+	color:grey;
+	background-color:white;
+	padding:4px;
+	font-size:14px;
+	float :left;
+	border:1px solid black;
+	border-radius:5px;}
+input {
+	font-family: 'Open Sans', sans-serif;
+	position:absolute;
+	text-align:center;
+	font-size:14px;
+	width:140px;
+	height:28px;
+	top:10px;
+	left:1075px;
+	border:1px solid black;
+	border-radius:35px;
+}
+.back{
+	width:100%;
+overflow:hidden;
+position:relative;}
+.back h1{
+	font-family: 'Open Sans', sans-serif;
+	font-size:50px;
+	top:10px;
+	right:380px;
+	color:white;
+	position:absolute;
+text-decoration:none;}
+.back h6{
+	font-family: 'Open Sans', sans-serif;
+	font-size:10px;
+	top:60px;
+	left:680px;
+	color:white;
+	position:absolute;
+text-decoration:none;}
+.back ul{font-size:30px;
+font-family: 'Open Sans', sans-serif;
+list-style-type:none;
+	top:100px;
+	left:780px;
+	color:white;
+	position:absolute;
+text-decoration:none;}
+.back p{
+	font-size:15px;
+	font-family: 'Open Sans', sans-serif;
+	top:220px;
+	left:840px;
+	color:white;
+	position:absolute;
+text-decoration:none;}
+span{
+	color :white;
+background-color:orange;
+	
+}
+<!---------------------------------------------------------------------------------------------------------------------------------------------------------->
+.COLUMN{
+	color:black;
+	overflow: hidden;
+    height: 150px;}
+			.column1 h1{
+	float:left;
+	font-family: 'Open Sans', sans-serif;
+	COLOR:black;
+            }
+			.column1 img{
+	float:left
+            }
+.column1 p{
+	clear:both;
+	COlor:black;
+	font-family: 'Open Sans', sans-serif;
+          }
+
+.column1{
+    float:left;
+	margin-top: 2px;
+	margin-left: 50px;
+	width: 28%;
+	font-family: 'Open Sans', sans-serif;
+	
+	clear:both;
+	height: 30%;
+	text-align: justify;
+    font-size: 14px;
+		}
+	
+.column2{
+    float:left;
+	margin-top: 2px;
+	margin-left: 65px;
+	width: 28%;
+	height: 30%;
+	text-align: justify;
+    font-size: 14px; 
+	color:black;
+	font-family: 'Open Sans', sans-serif;
+	    }
+.column2 img{
+	float:left
+            }
+.column2 p{
+	clear:both;
+	font-family: 'Open Sans', sans-serif;
+          }
+
+.column3{
+    float:left;
+	color:black;
+	margin-top: 2px;
+	margin-left: 65px;
+	width: 28%;
+	height: 30%;
+	text-align: justify;
+    font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+	    }
+.column3 img{
+	float:left
+            }
+.column3 p{
+	clear:both;
+	font-family: 'Open Sans', sans-serif;
+          }
+
+<!----------------------------------------------------------------------------------------------------------------------------------------------------------->	
+.row{
+	width:100%
+}
+
+.row1{
+	float: left;
+	width:25%;
+	font-family: 'Open Sans', sans-serif;
+}
+.row1 a{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.row2{
+	float: left;
+	margin-left: 84px;
+	margin-top: 25px;
+	text-align: center;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+}
+.row2 a{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.row3{
+	float: left;
+	margin-left: 84px;
+	margin-top: 25px;
+	text-align: center;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+}
+.row3 a{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.row4{
+	float: left;
+	margin-left: 84px;
+	margin-top: 25px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 13px;
+}
+.row4 a{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+}
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+		
+		
